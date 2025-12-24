@@ -41,7 +41,7 @@ public class CoinChange {
 
         for (int i = 0; i < n; i++) {
             for (int j = coins[i]; j <= sum; j++) {
-                dp[j] += dp[j - coins[i]]; // Include the coin
+                dp[j] += dp[j - coins[i]]; 
             }
         }
 
