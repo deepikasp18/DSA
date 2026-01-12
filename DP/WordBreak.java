@@ -1,4 +1,4 @@
-package DP;
+package dp;
 
 /**
  * Given a string s and y a dictionary of n words dictionary, check if s can be segmented into a sequence of valid words from the dictionary, separated by spaces.

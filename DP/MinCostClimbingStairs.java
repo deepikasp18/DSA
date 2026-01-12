@@ -1,4 +1,4 @@
-package DP;
+package dp;
 
 /**
  * Given an array of integers cost[] of length n, where cost[i] is the cost of the ith step on a staircase. Once the cost is paid, we can either climb one or two steps.

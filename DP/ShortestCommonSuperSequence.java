@@ -1,4 +1,4 @@
-package DP;
+package dp;
 
 public class ShortestCommonSuperSequence {
     public static void main(String[] args) {

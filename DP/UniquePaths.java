@@ -1,4 +1,4 @@
-package DP;
+package dp;
 
 public class UniquePaths {
     public static void main(String[] args) {

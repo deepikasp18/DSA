@@ -1,4 +1,4 @@
-package DP;
+package dp;
 
 /**
  * There are n houses built in a line, each of which contains some money in it. A robber wants to steal money from these houses, but he can’t steal from two adjacent houses. The task is to find the maximum amount of money which can be stolen.
